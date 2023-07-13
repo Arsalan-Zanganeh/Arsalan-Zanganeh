@@ -14,6 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/arsalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arsalan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arsalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/arsalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arsalan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arsalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arsalan" height="30" width="40" /></a>
+</p>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
