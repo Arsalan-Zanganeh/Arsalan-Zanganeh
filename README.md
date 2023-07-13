@@ -2,7 +2,6 @@
 <h3 align="center">Code creator and problem solver</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalan-zanganeh&label=Profile%20views&color=0e75b6&style=flat" alt="arsalan-zanganeh" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on SignalR<br>
@@ -29,10 +28,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Zanganeh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arsalan-Zanganeh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arsalan-Zanganeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Arsalan-Zanganeh&icon=0&color=0)](https://visitcount.itsvg.in)
+#
+[![](https://visitcount.itsvg.in/api?id=Arsalan-Zanganeh&icon=0&color=5)](https://visitcount.itsvg.in)
