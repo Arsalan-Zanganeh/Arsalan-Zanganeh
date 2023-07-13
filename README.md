@@ -27,13 +27,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arsalan-Zanganeh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Zanganeh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Zanganeh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arsalan-Zanganeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 #
 [![](https://visitcount.itsvg.in/api?id=Arsalan-Zanganeh&icon=0&color=5)](https://visitcount.itsvg.in)
