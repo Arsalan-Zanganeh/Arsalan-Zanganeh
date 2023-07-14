@@ -5,11 +5,15 @@
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on SignalR<br>
-🌱 I’m currently learning Blazor and EF Core<br>
-💬 Ask me about Python and C#<br>
-⚡ Fun fact : I am lazy
+💫 **About Me:**
+<br>
+🔭 **I’m currently working on SignalR**
+<br>
+🌱 **I’m currently learning Blazor and EF Core**
+<br>
+💬 **Ask me about Python and C#**
+<br>
+⚡ **Fun fact : I am lazy**
 
 # Connect with me:
 <p align="left">
